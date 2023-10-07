@@ -1,0 +1,51 @@
+h1{
+color: black;
+
+}
+
+h2{
+color: rgb(77, 77, 77);
+font-size: 20px;
+
+}
+
+
+.box1{
+color: blue;
+font-size: 30px;
+}
+
+.box2{
+border: 1px solid black;
+margin: 0px 10px 0px 10px;
+border-radius: 4px 3px 6px 10px;
+margin: 0 auto;
+font-family: Arial;
+
+}
+
+#header{
+background-color:grey;
+width:1000px;
+height: 70px;
+padding-top: 5px;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right: 15px;
+
+
+}
+
+.item-box{
+    display: flex;
+    align-items:center;
+    margin-bottom: 10px;
+}
+
+span{
+    display:inline-block;
+    width: 1000px;
+    text-align: justify;
+    text-justify: distribute-all-lines;
+    text-align-last: justify;
+}

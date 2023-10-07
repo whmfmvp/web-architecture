@@ -1,0 +1,24 @@
+.hyperlink-line{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    text-align-last: justify;
+}
+
+.link-box {
+    background-color: skyblue;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    text-align-last: justify;
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
